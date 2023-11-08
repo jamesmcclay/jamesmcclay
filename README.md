@@ -23,7 +23,7 @@ Feel free to explore any project that piques your interest.
 I'm always excited to collaborate and network with fellow developers. You can reach me on:
 
 - LinkedIn: [James McClay](https://www.linkedin.com/in/james-mcclay-b31a514b/))
-- Email: [James McClay] mcclay dot james@gmail.com
+- Email: [James McClay] mcclay dot james at gmail.com
 
 Feel free to connect or say hi! I'm looking forward to meeting you and discussing exciting new opportunities.
 
