@@ -14,7 +14,7 @@ This GitHub profile is your gateway to a collection of projects each designed to
 
 Here are some of the projects you'll find on my profile:
 
-1. [Router Database]((https://github.com/jamesmcclay/routerdb)): An idea for an online third-party database of network routers. Includes server ( AWS EC2) and serverless (Lambda/DynamoDB) deployment options.
+1. [Router Database](https://github.com/jamesmcclay/routerdb): An idea for an online third-party database of network routers. Includes server ( AWS EC2) and serverless (Lambda/DynamoDB) deployment options.
 
 Feel free to explore any project that piques your interest.
 
