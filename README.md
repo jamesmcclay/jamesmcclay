@@ -1,10 +1,10 @@
-# Welcome to My GitHub Profile
+# Welcome!
 
-Hello and welcome to my GitHub profile! I'm thrilled to have you here. 🚀
+Hello and welcome, I'm happy to have you here. 🚀
 
 ## About Me
 
-I'm James McClay, a passionate software, devops, network and sales engineer with a strong interest in automation. My goal is to automate everything that can be automated in the world and use technology for good.
+I'm James McClay, a passionate software, devops, cloud, network and sales engineer.
 
 ## What You'll Find Here
 
@@ -28,5 +28,3 @@ I'm always excited to collaborate and network with fellow developers. You can re
 Feel free to connect or say hi! I'm looking forward to meeting you and discussing exciting new opportunities.
 
 Thank you for visiting my profile, and I hope you find something inspiring and informative here. Happy coding! :computer:
-
-![Octocat](https://github.githubassets.com/images/mona-whisper.gif)
